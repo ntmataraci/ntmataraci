@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ntmataraci
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning JS+CS+PHP
+- 🌱 I’m currently learning JS+CSS+PHP+tensorflow.js
 - 💞️ I’m looking to collaborate on learning and outsource jobs
 - 📫 How to reach me -> nevzatmataraci@gmail.com
 
